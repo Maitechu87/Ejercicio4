@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b9b4d41-9817-4715-b33b-b3152d8561fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestPunt.java" afterDir="false" />
+    <list default="true" id="0b9b4d41-9817-4715-b33b-b3152d8561fd" name="Default Changelist" comment="nou repositori">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercici4.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TestPunt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-line="2" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -76,22 +75,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="exercici4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercici4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercici4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercici4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -150,8 +134,8 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24923703" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3310811" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.32756868" visible="true" weight="0.5810811" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.67243135" side_tool="true" weight="0.5810811" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -187,8 +171,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TestPunt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
