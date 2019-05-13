@@ -22,4 +22,9 @@ public class Punt {
     public Punt() { this(0, 0); }
 
     public Punt(int x, int y) { this.x=x; this.y=y; }
+
+    public void suma(Punt p) {
+        x+=p.x;
+        y+=p.y;
+    }
 }
