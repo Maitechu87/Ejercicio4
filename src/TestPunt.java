@@ -32,4 +32,5 @@ public class TestPunt {
         assertEquals(4, p.getX());
         assertEquals(12, p.getY());
     }
+
 }

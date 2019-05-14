@@ -27,4 +27,6 @@ public class Punt {
         x+=p.x;
         y+=p.y;
     }
+
+
 }
