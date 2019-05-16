@@ -33,4 +33,14 @@ public class TestPunt {
         assertEquals(12, p.getY());
     }
 
+    @Test(expected = IllegalArgumentException.class)
+    public void TestPuntX() {
+        Punt p = new Punt(-3,7);
+    }
+
+    @Test(expected = IllegalArgumentException.class)
+    public void TestPuntY() {
+        Punt p = new Punt(8,-50);
+    }
+
 }
